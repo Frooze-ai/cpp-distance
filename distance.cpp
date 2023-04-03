@@ -4,7 +4,7 @@
 #include "json/json.h"
 
 // OpenRouteService API anahtarı buraya yerleştirilir.
-const std::string API_KEY = "YOUR_API_KEY";
+const std::string API_KEY = "BURAYA_YERLESTIR";
 
 // Mesafeyi hesap
 float calculateDistance(std::string origin, std::string destination)
