@@ -65,6 +65,8 @@ static size_t writeCallback(void* contents, size_t size, size_t nmemb, void* use
     return size * nmemb;
 }
 
+// cppWx
+
 int main()
 {
     std::string origin, destination;
